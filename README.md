@@ -1,2 +1,7 @@
 # aws-infrastructure-portfolio
-AWS infrastructure design, implementation, and operations portfolio for cloud infrastructure engineering.
+このリポジトリはAWS技術向上のため、「実践した学習のアウトプットの場となること」を目的とする。
+
+学習の基本方針
+- 実践形式としては、「疑似案件をクリアしていく」という形をとる。
+- 使用技術はAWS CLFで扱うサービスとする。
+- 実践した疑似案件ごとに記録を残していく。
